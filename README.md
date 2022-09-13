@@ -1,2 +1,8 @@
-# KDK.restaurant.web
-hii i make this front end web Using HTML,CSS And JavaScript
+# Restaurant Landing Page
+
+- Used bootstrap tools & own styles.
+- Implemented responsive template.
+
+👉🏻 [Demo](https://yaninatrekhleb.github.io/restaurant-website/)
+
+![Demo](img/demo.gif)
